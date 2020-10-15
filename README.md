@@ -5,7 +5,4 @@ this is the edit made and commited in the branch
 this is an edit number 2
 haii robosoft
 
-hf
-hdxfth
-cfthdfh
 
